@@ -11,3 +11,5 @@ A simple application that helps you plan your day. Designed to be easy to read a
 - Framework: Spring boot 3
 - UI: Thymeleaf (server-side template engine for rendering HTML)
 - Additional tools: Docker, Postman 
+
+![App Screenshot](z6189630124279_2eb0ad3a22b9d3bdc94ac7e84c7f04e3.jpg)
